@@ -1,0 +1,131 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #2b2b2b;
+    font-family: Montserrat, sans-serif;
+}
+
+.navigation {
+    background-color: #2b2b2b;
+    color: white;
+    height: 60px;
+    
+}
+
+.navigation ul {
+    list-style: none;
+    margin-top: 0;
+    padding: 0;
+    height: 60px;
+    text-align: right;
+}
+
+.navigation li {
+    display: inline-block;
+    line-height: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 18px;
+}
+
+.capa {
+    color: white;
+}
+
+.capa div {
+    display: inline-block;
+    height: 650px;
+}
+
+.profile-pic {
+    width: 39%;
+    text-align: center;
+}
+
+.profile-pic img {
+    border-radius: 152px;
+    width: 320px;
+    margin-top: 100px;
+}
+
+.profile-title {
+    vertical-align: top;
+    width: 60%;
+}
+
+.profile-title h1 {
+    margin-top: 200px;
+    font-size: 58px;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 54px;
+}
+
+.profile-title h2 {
+    margin-top: -26px;
+    font-weight: 100;
+    font-size: 16px;
+}
+
+.curriculo{
+    padding-left: 100px;
+}
+
+.curriculo ul{
+    list-style: none;
+    margin-top: 0;
+    padding: 0;
+}
+
+.curriculo li{
+    display: inline-block;
+    line-height: 60px;
+    font-size: 18px;
+}
+
+.curriculo h1{
+    color: white;
+    line-height: 60px;
+    padding-left: 100;
+}
+
+.curriculo h2{
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+.curriculo h3{
+    color: orange;
+}
+
+.curriculo p{
+    color: white;
+}
+
+.dados_pessoais{
+    padding-bottom: 30px;
+}
+
+.sobre_mim{
+    padding-bottom: 30px;
+}
+
+.educacao{
+    padding-bottom: 30px;
+}
+
+.habilidades{
+    padding-bottom: 30px;
+}
+
+.experiencia{
+    padding-bottom: 30px;
+}
+
+.contato{
+    padding-bottom: 30px;
+}
